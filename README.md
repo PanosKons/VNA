@@ -13,6 +13,8 @@
 
 ![Hardware Setup](docs/images/hardware_setup.jpg)
 
+<img src="docs/images/pcb.png?v=2" width="100%" alt="VNA PCB Layout" />
+
 ---
 
 ## Contents
